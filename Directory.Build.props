@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>Latest</LangVersion>
+
+    <Author>Jahan</Author>
+    <NeutralLanguage>en-US</NeutralLanguage>
+
+  </PropertyGroup>
+</Project>
